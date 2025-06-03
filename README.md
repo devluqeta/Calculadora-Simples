@@ -9,7 +9,8 @@ Este é um projeto de uma calculadora simples feita em **Dart**. Ela permite faz
    ```bash
    dart run
 
-```Escolha a operação:
+```bash
+Escolha a operação:
 1 - Soma
 2 - Subtração
 3 - Multiplicação
