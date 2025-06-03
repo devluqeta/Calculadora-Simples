@@ -16,8 +16,9 @@ Escolha a operação:
 3 - Multiplicação
 4 - Divisão
 
-#Exemplo
+## Exemplo
 
+```bash
 Digite o número para usar a expressão que deseja:
 1 - Soma
 2 - Subtração
