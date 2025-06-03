@@ -19,7 +19,7 @@ Escolha a operação desejada:
 
     4 - Divisão
 
-    Digite o número para usar a expressão que deseja:
+Digite o número para usar a expressão que deseja:
 1 - Soma
 2 - Subtração
 3 - Multiplicação
