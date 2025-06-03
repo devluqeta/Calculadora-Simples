@@ -9,17 +9,17 @@ Este é um projeto de uma calculadora simples feita em **Dart**. Ela permite faz
    ```bash
    dart run
 
-```bash
-Escolha a operação:
-1 - Soma
-2 - Subtração
-3 - Multiplicação
-4 - Divisão
+Escolha a operação desejada:
 
-## Exemplo
+    1 - Soma
 
-```bash
-Digite o número para usar a expressão que deseja:
+    2 - Subtração
+
+    3 - Multiplicação
+
+    4 - Divisão
+
+    Digite o número para usar a expressão que deseja:
 1 - Soma
 2 - Subtração
 3 - Multiplicação
